@@ -30,6 +30,15 @@ Sau khi build thành công, bạn có thể chạy file thực thi tương ứng
 ./build/CinemaManagementMini
 ```
 
+
+**Chạy test:**
+```bash
+
+build\test_core.exe
+
+```
+
+
 ## 4. Implemented Features
 Toàn bộ các yêu cầu chức năng cốt lõi đều đã được hoàn thiện 100%:
 - **Quản lý Phim:** Thêm, cập nhật, ngừng chiếu, tìm kiếm, lọc theo thể loại.
