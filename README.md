@@ -30,13 +30,6 @@ Sau khi build thành công, bạn có thể chạy file thực thi tương ứng
 ./build/CinemaManagementMini
 ```
 
-**Chạy kiểm thử (Unit Tests):**
-Hệ thống test được chia làm nhiều file. Bạn có thể sử dụng CTest để chạy toàn bộ:
-```bash
-cd build
-ctest --output-on-failure
-```
-
 ## 4. Implemented Features
 Toàn bộ các yêu cầu chức năng cốt lõi đều đã được hoàn thiện 100%:
 - **Quản lý Phim:** Thêm, cập nhật, ngừng chiếu, tìm kiếm, lọc theo thể loại.
