@@ -102,7 +102,7 @@ Dữ liệu của mỗi thực thể được biểu diễn trên một dòng ri
 - `showtimes.txt`: `ID | Movie ID | Room ID | Ngày chiếu | Giờ chiếu | Giá vé gốc`
 - `tickets.txt`: `ID | Customer ID | Showtime ID | Ghế | Loại vé | Giá cuối cùng`
 
-### Quy trình Đồng bộ Dữ liệu An toàn (Robust Data Sync Flow)
+### Quy trình khởi tạo nạp và ghi dữ liệu
 1. **Nạp dữ liệu:** Khi khởi động ứng dụng gọi `loadAll()`, các file được nạp theo thứ tựtừ thực thể độc lập đến thực thể phụ thuộc: 
    $$\text{Movies/Rooms/Customers} \rightarrow \text{Showtimes} \rightarrow \text{Tickets}$$
    Điều này đảm bảo mọi khóa ngoại đều có thể được load an toàn.
