@@ -1,0 +1,5 @@
+M001|Dune 2|Sci-fi|166|13|Showing
+M002|Inside Out 2|Animation|96|6|Showing
+M003|The Dark Knight|Action|152|13|Showing
+M004|Inception|Sci-fi|148|13|Stopped
+M005|Toy Story 4|Animation|100|6|Showing

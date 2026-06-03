@@ -1,0 +1,4 @@
+P01|Screen 1|VIP|5|8
+P02|Screen 2|Normal|6|10
+P03|Screen 3|IMAX|4|12
+P04|IMAX 2|IMAX|10|15
